@@ -1,0 +1,1 @@
+echo "DevOps is the new way of delivering software faster"
