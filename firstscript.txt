@@ -1,1 +1,2 @@
 echo "DevOps is the new way to deliver software faster"
+the main principle of DevOps is Continuous integration and continuous deployment.
